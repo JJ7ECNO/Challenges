@@ -1,0 +1,141 @@
+.photo {
+    border: 1px solid rgb(255, 187, 0);
+    border-radius: 5px;
+}
+
+
+#title, .subtitle, .post_title {
+    color: rgb(210, 238, 217);
+    text-align: center;
+}
+
+#title {
+    font-size: 40px;
+    /* text-transform: uppercase; */
+    color:rgb(14, 90, 11);
+    text-align: center;font-style: oblique;
+    text-decoration:overline;
+  }
+
+a {
+    text-decoration:none;
+    color:rgb(5, 141, 96)
+}
+.icon3 {
+    height: 10vh;
+    width: 10vw;
+}
+/* .subtitle{
+    color: blue;
+} */
+.img {
+    background-image: url(img/shildren\ coding\ 2021-12-18\ 213308.png);
+    /* background: rgb(244, 245, 207); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    padding: 15px;
+    height: 85vh;
+    width: 99vw;
+    /* display: grid; */
+    display: -ms-grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.post {
+    /* background-image: url(img/shildren\ coding\ 2021-12-18\ 213308.png); */
+    background: rgb(244, 245, 207);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    padding: 15px;
+    border: 3px solid rgb(255, 187, 0);
+    /* margin-bottom: 15px; */
+    margin: 15px 15px 15px 25px;
+    border-radius: 10px 25px;
+}
+
+body {
+    background: rgb(184, 206, 191);
+    font-family: Verdana;
+}
+
+.post_content {
+    margin: 10;
+    margin-bottom: 15px;
+    /* text-transform: capitalize; */
+    color: rgb(2, 83, 56);
+    text-align: center;
+}
+
+.post_image {
+    margin-bottom: 15px; 
+ }
+
+ .footer {
+    color: rgb(236, 236, 245) 
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.post_title2 {
+    font-size: 50px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    color:rgb(245, 243, 239);
+    text-align: center;
+}
+
+.links {
+    color:aliceblue
+}
+
+.img-de-fundo-topo {
+    background-image: url("img/feliphe-schiarolli-hes6nUC1MVc-unsplash.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    height: 350vh;
+    width: 99vw;
+    display: grid;
+    display: -ms-grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.bottom {
+    background-image: url("img/code\ education\ 2021-12-18\ 195949.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 95vh;
+    width: 99vw;
+    display: grid;
+    display: -ms-grid;
+    justify-items: center;
+    align-items: center;
+}
+
+
+<!-- <img
+src="img/feliphe-schiarolli-hes6nUC1MVc-unsplash.jpg"
+alt="ilustração de sala de aula vazia"
+height="350"
+width="450"
+class="photo"
+/> -->
+
+
+
+
+
+
+
